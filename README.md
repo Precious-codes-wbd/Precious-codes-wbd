@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Precious and I'm a fullstack web developer.
+I'm currently learning HTMl, CSS, JavaScript, Python, Django and many more.
+
+How to reach me: https://wa.me/2347012215549
+
 <!--
 **Precious-codes-wbd/Precious-codes-wbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
